@@ -2,7 +2,8 @@ echo "Testando (2)..."
 echo
 
 output=$(./a.out < ./testes/input2.txt)
-expected_output="Livro 1:
+expected_output="
+Livro 1:
 Nome: Estruturas de Dados em Ação
 ISBN: 978-1234567890
 Preço: R$ 89.90
